@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @DonnyKurniawan, welcome to my github profile page.
+- Talk about C++, C#, Java, Javascript, PHP.
+- Software Engineer and Quality Assurance Engineer
