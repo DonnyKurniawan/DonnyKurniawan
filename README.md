@@ -9,9 +9,3 @@
 
 ##### Tools
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,aws,cypress,elasticsearch,jenkins,grafana,kafka,kubernetes,laravel,nodejs,mysql,postman&perline=10)](https://skillicons.dev)
-
-###
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DonnyKurniawan/DonnyKurniawan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DonnyKurniawan/DonnyKurniawan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DonnyKurniawan/DonnyKurniawan/output/pacman-contribution-graph.svg">
-</picture>
