@@ -1,6 +1,6 @@
 ## Hi Everyone! I'm Donny Kurniawan
 ![Donny Kurniawan](/img/banner.png)
-- I'm currenty work as Quality Assurance Engineer in Finance Industry
+- Experienced work as Quality Assurance Engineer in Finance and Insurance Industry
 - Love to Research and do Experiment
 
 
